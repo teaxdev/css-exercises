@@ -1,0 +1,19 @@
+.odd {
+    background-color: #f9a1f0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#scnd {
+    color: #0a0ad8;
+    font-size: 36px;
+}
+
+#thrd {
+    font-size: 24px;
+}
+
+#frth {
+    background-color: #3ed470;
+    font-size: 24px;
+    font-weight: bold;
+}
